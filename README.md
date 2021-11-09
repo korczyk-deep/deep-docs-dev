@@ -1,1 +1,1 @@
-# deep-bi-docs
+# deep-docs
