@@ -1,1 +1,1 @@
-# deep-bi.github.io
+# deep-bi-docs
